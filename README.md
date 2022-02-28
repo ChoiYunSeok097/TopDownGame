@@ -11,6 +11,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/59460871/155918774-229efb95-8311-494a-8d21-c0a4da92501b.PNG"  width="400" height="200"/>
+
 - TopDown 뷰로 적들에게서 최대한 오래 살아남는 게임
 - wasd로 이동이 가능
 - 마우스로 캐릭터 회전, 좌클릭으로 총 발사 가능
