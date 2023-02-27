@@ -23,7 +23,7 @@ Readme로 간단히 설명을 하겠습니다.
 - 총알이 제한 되어 있어, 맵에있는 총을 지속적으로 획득해야합니다.
 - UI로 체력과 총알을 보여줍니다.
 
-
+ 
 # TopDownView
 <img src="https://user-images.githubusercontent.com/59460871/157593218-252bce6a-96ad-4c2d-8284-fc0dd963008a.PNG"  width="400" height="200"/>
 
